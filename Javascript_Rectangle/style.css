@@ -1,0 +1,15 @@
+#center {
+  display: flex;
+  width: 700px;
+  height: 350px;
+  border: 1px solid black;
+  position: relative;
+  left: 50%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  transform: translate(-50%);
+  transition: ease-in-out 0.1s;
+  font-size: 4rem;
+  font-weight: bolder(100%);
+}
